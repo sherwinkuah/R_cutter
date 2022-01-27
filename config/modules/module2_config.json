@@ -1,0 +1,8 @@
+{
+    "inputs"  : {},
+    "outputs" : {
+      "curdata1"    : "./data/raw_data/curdata1.csv"
+      },
+    "params"  : {},
+    "file"    : {}
+}
