@@ -1,0 +1,15 @@
+{
+    "inputs"  : {
+      "plots" : {
+        "title"  : "Plot of speed vs distance!",
+        "background" : "#000000"
+      }
+    },
+    "outputs" : {
+      "curdata1"    : "./data/raw_data/curdata1.csv",
+      "result"       : "/results",
+      "speedplot"    : "results/rplot_speed_vs_dist.png"
+      },
+    "params"  : {},
+    "file"    : {}
+}
